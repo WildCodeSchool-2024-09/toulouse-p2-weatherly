@@ -29,7 +29,7 @@ function App() {
                   fill="#eee"
                 />
               </svg>
-              Github
+              Arthur
             </a>
           </li>
         </ul>
