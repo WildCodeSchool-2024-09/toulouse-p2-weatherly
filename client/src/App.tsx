@@ -29,7 +29,7 @@ function App() {
                   fill="#eee"
                 />
               </svg>
-              Github
+              Yuiop
             </a>
           </li>
         </ul>
