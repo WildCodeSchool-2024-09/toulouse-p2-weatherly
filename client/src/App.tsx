@@ -40,7 +40,7 @@ function App() {
           <h2 className="block-primary-main">JS Monorepo</h2>
           <p className="block-primary-sub">Votre framework JavaScript</p>
         </hgroup>
-        <p>Vous avez lu ?</p>
+        <p>Vous avez lu le Readme ?</p>
       </main>
 
       <footer>
