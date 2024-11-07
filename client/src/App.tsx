@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header>
-        <h1 className="logo">JS Monorepo branche kebab</h1>
+        <h1 className="logo">JS Monorepo kebab branche</h1>
       </header>
 
       <nav className="navbar">
