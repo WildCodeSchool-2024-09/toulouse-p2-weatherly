@@ -10,7 +10,6 @@ function App() {
         <Link to="Favorites">Favoris</Link>
       </nav>
       <main>
-        <p>Pour Arthur : à review</p>
         <Outlet />
       </main>
     </>
