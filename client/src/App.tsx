@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header>
-        <h1 className="logo">JS Monorepo kebab branch</h1>
+        <h1 className="logo">JS Monorepo kebab branch for Rémi</h1>
       </header>
 
       <nav className="navbar">
@@ -29,7 +29,7 @@ function App() {
                   fill="#eee"
                 />
               </svg>
-              Github
+              Arthur
             </a>
           </li>
         </ul>
